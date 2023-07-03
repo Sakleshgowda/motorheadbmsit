@@ -72,19 +72,19 @@
               <a href="#">
                 <i class="fab fa-facebook-f"></i>
               </a>
-              <a href="#">
+              <a href="https://twitter.com/TMotorheads">
                 <i class="fab fa-twitter"></i>
               </a>
-              <a href="#">
+              <a href="https://www.instagram.com/motor.heads_bmsit/">
                 <i class="fab fa-instagram"></i>
               </a>
-              <a href="#">
+              <a href="https://www.linkedin.com/company/motor-heads-bmsit">
                 <i class="fab fa-linkedin-in"></i>
               </a>
             </div>
           </div>
         </div>
-
+  </div>
         <div class="contact-form">
           <span class="circle one"></span>
           <span class="circle two"></span>
