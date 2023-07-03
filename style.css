@@ -32,7 +32,7 @@ section {
     margin-top: 1rem;
     padding: 1rem 3rem;
     background: #e9edfb;
-    color: #224bcf;
+    color: #374a8a;
     cursor: pointer;
     border-radius: .5rem;
     font-size: 1.7rem;
@@ -40,7 +40,7 @@ section {
 
 .btn:hover {
     color: #fff;
-    background: #224bcf;
+    background: #374a8a;
 }
 
 .heading {
@@ -86,17 +86,17 @@ section {
     -ms-flex-pack: justify;
     justify-content: space-between;
     padding: 0 9%;
-    background: #224bcf;
+    background: #a43a44;
 }
 
 .header .logo {
     font-size: 2.5rem;
     font-weight: bolder;
-    color: #fff;
+    color: #e8e9ea;
 }
 
 .header .logo i {
-    color: crimson;
+    color: rgb(120, 115, 116);
 }
 
 .header .navbar ul {
@@ -811,6 +811,44 @@ section {
         font-size: 50%;
     }
 }
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  form input,
+  form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  form input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+  }
+  
+  form input[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  
+  
 
 
 /*# sourceMappingURL=style.css.map */
