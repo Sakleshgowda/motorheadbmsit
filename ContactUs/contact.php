@@ -32,7 +32,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Jaffna College | Contact Us</title>
+    <title> Motor Heads BMSIT| Contact Us</title>
     <link rel="shortcut icon" type="images" href="images/logo.jpg">
     <link rel="stylesheet" href="style.css" />
     <script
@@ -48,22 +48,21 @@
         <div class="contact-info">
           <h3 class="title">Let's get in touch</h3>
           <p class="text">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe
-            dolorum adipisci recusandae praesentium dicta!
+            Official Student Racing Team of BMS Institute of Technology and Management 
           </p>
 
           <div class="info">
             <div class="information">
               <img src="img/location.png" class="icon" alt="" />
-              <p>Vaddukkoddai-Moolai Rd, Moolai</p>
+              <p>Motor Heads BMSIT</p>
             </div>
             <div class="information">
               <img src="img/email.png" class="icon" alt="" />
-              <p>1823jaffnacollege@gmail.com</p>
+              <p>teammotorheads@bmsit.in</p>
             </div>
             <div class="information">
               <img src="img/phone.png" class="icon" alt="" />
-              <p>021 2250888</p>
+              <p>9972014960</p>
             </div>
           </div>
 
