@@ -32,7 +32,7 @@ section {
     margin-top: 1rem;
     padding: 1rem 3rem;
     background: #e9edfb;
-    color: #374a8a;
+    color: #224bcf;
     cursor: pointer;
     border-radius: .5rem;
     font-size: 1.7rem;
@@ -40,7 +40,7 @@ section {
 
 .btn:hover {
     color: #fff;
-    background: #374a8a;
+    background: #224bcf;
 }
 
 .heading {
@@ -86,17 +86,17 @@ section {
     -ms-flex-pack: justify;
     justify-content: space-between;
     padding: 0 9%;
-    background: #a43a44;
+    background: #224bcf;
 }
 
 .header .logo {
     font-size: 2.5rem;
     font-weight: bolder;
-    color: #e8e9ea;
+    color: #fff;
 }
 
 .header .logo i {
-    color: rgb(120, 115, 116);
+    color: crimson;
 }
 
 .header .navbar ul {
@@ -849,6 +849,5 @@ section {
   }
   
   
-
 
 /*# sourceMappingURL=style.css.map */
