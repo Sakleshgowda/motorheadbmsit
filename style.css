@@ -848,6 +848,45 @@ container {
     background-color: #45a049;
   }
   
-  
+.logo
+/* CSS code for mobile view */
+
+/* Target mobile devices */
+@media only screen and (max-width: 767px) {
+    /* Your CSS rules for mobile view go here */
+    /* For example: */
+    
+    /* Adjust font size */
+    body {
+      font-size: 14px;
+    }
+    
+    /* Center align elements */
+    .container {
+      text-align: center;
+    }
+    
+    /* Hide or show specific elements */
+    .hidden-on-mobile {
+      display: none;
+    }
+    
+    .visible-on-mobile {
+      display: block;
+    }
+    
+    /* Adjust padding or margins */
+    .box {
+      padding: 10px;
+    }
+    
+    /* Modify the layout */
+    .sidebar {
+      width: 100%;
+      float: none;
+    }
+    
+    /* Override any other styles for mobile view */  
+}
 
 /*# sourceMappingURL=style.css.map */
